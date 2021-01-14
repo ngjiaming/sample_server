@@ -15,8 +15,5 @@
     { "id": 4, "body": "some comment", "postId": 4 }
   ],
   "profile": 
-  {"name": "typicode"},
-  {"name": "teste"},
-  {"name": "test2"}
-
+  {"name": "typicode"}
 }
